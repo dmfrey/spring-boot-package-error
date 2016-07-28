@@ -10,3 +10,9 @@ This sample project demonstrates an issue packaging a Spring Boot application in
 ## Desired Outcome
 
 The Spring Boot packaging plugins for both maven and gradle should be able to select the appropriate main method when packaging the jar.
+
+## Bug Report
+
+To track this issue, a bug has been created in the Spring Boot project.
+
+https://github.com/spring-projects/spring-boot/issues/6496
